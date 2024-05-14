@@ -201,7 +201,7 @@
 .background-image-section7{
   width: 1440px;
   height: 436px;
-  background: url("/skycode/Image/image-121-663897eb0012a.webp");
+  background: url("Image/image-121-663897eb0012a.webp");
   background-repeat: no-repeat;
   margin: 0px auto;
   background-position: 0% 55%;
@@ -253,7 +253,7 @@
   width: 80%;
 }
 .background-image-section5{
-  background-image: url("/skycode/Image/image-91-6642da8be2cdc.webp");
+  background-image: url("Image/image-91-6642da8be2cdc.webp");
   height: 436px;
   width: 1440px;
   border-radius: 20px;
